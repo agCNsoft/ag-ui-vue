@@ -1,0 +1,14 @@
+{
+  "name": "anji-ui-vue",
+  "version": "0.0.1",
+  "description": "basic on element plus",
+  "main": "index.js",
+  "devDependencies": {
+    "vue":"^3.2.47",
+    "element-plus":"^2.2.32"
+  },
+  "peerDependencies": {
+    "vue":"^3.2.47",
+    "element-plus":"^2.2.32"
+  }
+}
